@@ -12,6 +12,10 @@
 }
 
 body {
-	background: url(intro-bg.jpg) no-repeat center center;
+	background: url(landscape.jpg) no-repeat center center;
+}
+.signup-form {
+	text-align: center;
+	color: #000000;
 }
 
